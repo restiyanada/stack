@@ -22,7 +22,7 @@ while (choose != 5){
 
 
 puts("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
-puts("             MENU");
+puts("             MENU")
 puts("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
 puts("1. check the condition");
 puts("2. add data");
@@ -63,7 +63,7 @@ case 4: createEmpty();
 puts("Stack is empty. Top = 0");
 getch();
 break;
-case 5: puts("Selesai"); 
+case 5: puts("Done!"); 
 getch();
 break;
 }
