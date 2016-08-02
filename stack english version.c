@@ -12,7 +12,7 @@ int IsFull();
 void push(int x);
 void pop();
 main(){
-int lagi;
+int again;
 int input;
 int choose;
 createEmpty();
